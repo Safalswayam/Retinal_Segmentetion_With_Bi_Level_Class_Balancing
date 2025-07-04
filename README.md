@@ -10,7 +10,7 @@ The goal is to accurately extract fine blood vessel structures from retinal imag
 
 Ensure the following directory format before running the notebook:
 
-project/
+#project/
 │
 ├── data/
 │ ├── images/ ← Retinal images (e.g., .jpg/.png)
